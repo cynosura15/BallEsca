@@ -1,5 +1,5 @@
 # BallEsca
-[![All Releases](https://img.shields.io/github/downloads/cynosura15/ballesca/total.svg?style=flat-square)][Latest]
+[All Releases](https://img.shields.io/github/downloads/cynosura15/ballesca/total.svg?style=flat-square)
 
 ## Informations
 http://gbatemp.net/threads/release-ballesca.446872/
